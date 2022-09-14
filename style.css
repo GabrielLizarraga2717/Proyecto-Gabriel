@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+
+:root { --fondo: #21D19F;
+--letras1: #45B69C;
+--letras2: #7293A0;
+--decoracion1:#A0A4B8;
+--pie: #D8DDEF}
+
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    text-decoration-style: none;
+    }
+
+    header{display: flex;
+        background-color: var(--fondo);
+        justify-content: space-between;
+        align-items: center;
+        height: 80px;
+        max-width: 2000px;}
+        
+        
+        
+        
+
+        .loguito{ height: 70px;
+                    width: 70px;
+                   border-radius: 1rem;
+                   border: solid;
+                   border-color:white;}
+                  
+    
+        .navbar{ display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 0px 100px;}
+                
+
+        .navbar-list{
+            display: flex;
+            justify-content: center;
+            gap: 40px;}
+
+        .navbar-list a{
+            color:white;
+            font-size: 20px;
+            font-weight: 700;}
+
+        main{display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            width: 100%;
+            background-color:var(--decoracion1);
+            max-width: 2000px
+            }
+            
+        #photo{display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding:0px 30px}
+
+            
+        
+        
+            .photo-boedo{display: flex;
+                        width:350px;
+                        height:350px;
+                        margin-top: 10px;
+                        margin-bottom: 10px;
+                        color: white;
+                        border: solid;
+                        padding: 5px 10px 5px 4px;
+                        justify-content: center;}
+
+        .info-boedo{display: flex;
+                    flex-direction: column;
+                    justify-content:space-evenly;
+                    align-items: center;
+                    gap: 30px;
+                    width: 50%;}
+
+        .info-boedo h1{ font-size:50px;
+                        display: flex;
+                        margin-top: 1px;}
+
+        .info-boedo p{font-size: 18px;
+                    font-weight: 500;
+                }
+
+            #bookboedo{display: flex;
+                justify-content: space-between;
+                align-items: center;
+                width: 100%;
+                max-width: 2000px;}
+                
+                
+
+            .info-book{width: 50%;
+                margin-top: 100px;
+                display: flex;
+                flex-direction: column;
+                gap: 30px;
+                justify-content:center;
+                align-items: center;
+                padding: 0px 15px;}
+
+                .info-book h1{ font-size: 40px;}
+
+                .info-book p{ font-size: 18px;
+                    font-weight: 500;}
+                
+                .info-book button{ background-color:var(--letras1);
+                width: 230px;
+                height:50px;
+                cursor: pointer;
+                font-size: 30px;}
+
+                .photo-book{display: flex;
+                       flex-direction: column ;
+                        justify-content: center;
+                    align-items: center;
+                    gap:20px;}
+
+                    .photo-book p{font-size: 18px;
+                        font-weight: 600;
+                        margin-right: 20px}
+
+                
+                    .instagram{position: fixed;
+                        bottom: 10px;
+                        right: 10px;}
+
+                    .logoinstagram{width: 60px;
+                        height:60px ;
+
+                    }
+
+                        
+
+           
+           
+           
+           
+           
+                   
+            
+
+                    
+
+
+                    
+
+                
+
+                
+
+
+
+
+            
+
+            
+                   
+
+        
+        
+                        
+            
+        
+        
+
+        
+                 
+        
+            
+            
+        
+            
+       
+       
+     
+
+    
+                   
+    
+        
+
+
+
+
+    
+
+
+
+
